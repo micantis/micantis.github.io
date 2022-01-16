@@ -2,18 +2,18 @@
 
 Here are three basic functions to try in **WorkBook**:
 
-Preface: All of the naviagation in the application happens via the button with three horizontal lines in the top left corner of the app window. This button opens the naviagation sidebar.
+Preface: All of the navigation in the application happens via the button with three horizontal lines in the top left corner of the app window. This button opens the navigation sidebar.
 
 ![WorkBook's navigation button](/images/workbook_home.png)
 
 ### 1. Graph some data. 
-A. Click the three horizontal lines (naviagation) button in the top left corner of the window, and pick Graphs.
+A. Click the three horizontal lines (navigation) button in the top left corner of the window, and pick Graphs.
 B. You'll see a list of data starting with most recent. You can double click on a few different items in the table to select them (tip: you can also right click on an item for more options).
 C. Then choose a graph type from the drop-down menu at the bottom to open the graph. 
 D. There are lots of options on the graph, including zooming in/out, adding/removing Y-axes, changing scales, and more. Right clicking offers you a menu as well. There's an "i" button in the bottom-right of the graph window that has helpful tips.
 
 ### 2. Create a cell. 
-A. When you first open the software, it starts on the "Cells" table (to get back there, click the nav button on the top left corner, then choose Cells). 
+A. When you first open the software, it starts on the "Cells" table (to get back there, click the navigation button on the top left corner, then choose Cells). 
 B. Find the button with a pencil and a plus sign in the top right corner and click it.
 C. In the cell editing view you can enter a name, choose a cell design (click the '+' button to register your choice), and edit the cell design parameters. There are many menus and inputs in the cell specification you can explore.
 D. Changing values here only edits this single cell. "Template" cell components, constituent materials, and whole cell designs can be saved and edited (and deleted) in the library. Experiments are faster way to define many cells (that's up next).
