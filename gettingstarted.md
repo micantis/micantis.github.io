@@ -14,4 +14,6 @@ Here are three basic functions to try in **WorkBook**:
 
 ### 4. [Bonus: Try an analysis.](gettingstarted4.md)
 
+---
+
 [Back to HOME](index.md)
