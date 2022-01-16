@@ -1,4 +1,4 @@
-# Graph some data. 
+# Graph some data
 
 1. Click the three horizontal lines (navigation) button in the top left corner of the window, and pick Graphs.
 

@@ -1,4 +1,4 @@
-# Create a cell. 
+# Create a cell
 
 1. When you first open the software, it starts on the "Cells" table (to get back there, click the navigation button on the top left corner, then choose Cells). 
 

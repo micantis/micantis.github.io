@@ -1,4 +1,4 @@
-# Bonus: Try an analysis.
+# Bonus: Try an analysis
 
 The analysis produces results for each cell based on test data (if there are multiple files associated with a cell, it will concatenate the data in date order). Then it will correlate the results with the design properties defined on each cell. 
 
