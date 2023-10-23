@@ -1,6 +1,6 @@
 # Graph some data
 
-1. Click the three horizontal lines (navigation) button in the top left corner of the window, and pick Graphs.
+1. Click on Graphs in the left navigation bar.
 
 2. You'll see a list of data starting with most recent. You can double click on a few different items in the table to select them (tip: you can also right click on an item for more options).
 
